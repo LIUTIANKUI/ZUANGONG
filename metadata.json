@@ -1,0 +1,5 @@
+{
+  "name": "WeChat Tool Expert Agent",
+  "description": "A WeChat-style intelligent customer service agent for a cutting tool manufacturer, designed to answer professional questions for long-term clients.",
+  "requestFramePermissions": []
+}
